@@ -7,8 +7,8 @@ Knud Rasmus Sønderbek, Danial Namazifard, Lukas Galke Poech. Sparse Importance 
 Our works builds on [stochastic parameter decomposition](https://arxiv.org/abs/2506.20790) and makes several key contributions are 
 
 - a new toy model of geometry
+- generalize SPD to rank-k subcomponents
 - a routing-consistency check
-- results regarding sparsity in importance scores versus underlying mechanisms
 
 The most relevant code changes can be found within `src/spd/models` and `src/spd/experiments`.
 
