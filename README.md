@@ -1,6 +1,6 @@
 # Sparse Importance Is Not a Sparse Decomposition: A Routing-Consistency Check for Parameter Decomposition
 
-This repository holds the code for reproducing the results of the paper 
+This repository holds the code for reproducing the results of the paper:
 
 Knud Rasmus Sønderbek, Danial Namazifard, Lukas Galke Poech. Sparse Importance Is Not a Sparse Decomposition: A Routing-Consistency Check for Parameter Decomposition. EACL 2027 (Findings).
 
